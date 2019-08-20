@@ -1,0 +1,6 @@
+﻿token= NjEzMzI0MTk1MjE2MDk3Mjgw.XVvQ8Q.sRzvYtnriy4QEEY9Cht2ZKEd3TQ
+owner= 596058167515807781
+prefix= !
+game= !help
+stayinchannel=true اذا تريده ميطلع من الروم من تخلص الاغنية لاتغيره
+songinstatus=false اذا تريده يكتب بلبروفايل شنو مشتغل حطه true
